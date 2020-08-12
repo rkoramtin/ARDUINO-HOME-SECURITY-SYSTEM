@@ -1,6 +1,6 @@
 # ARDUINO-HOME-SECURITY-SYSTEM
 ![Alt Text](http://uupload.ir/files/1cp5_capture33.png) <br>
-Implementation of a home security system using Arduino uno.
+Implementation of a home security system using Arduino Uno.
 
 # Simulation in Proteus 
 ![Alt Text](http://uupload.ir/files/nyc8_capture.png)
